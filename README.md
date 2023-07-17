@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+# Getting Started with Easy Student Housing App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Project Setup
+
+### Dependencies
+- Node.js
+- Tailwind CSS
+
+### Installation
+
+1. Make sure you have Node.js installed on your machine.
+2. Clone this repository. `git clone git@github.com:kezzico/fish_react.git`
+3. Navigate to the project directory.
+4. Install the dependencies by running the following command: `npm install tailwindcss`
+5. To build the project, run: `npm install`
+6. To start the development server, run: `npm start`
 
 ## Available Scripts
 
